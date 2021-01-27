@@ -1,0 +1,9 @@
+package br.com.empresa.gui;
+
+import javax.swing.JFrame;
+
+public class FrameRetangulo {
+	public void criatTela() {
+		JFrame tela = new JFrame();
+	}
+}
